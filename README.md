@@ -10,6 +10,7 @@ I've spent the last 5 years building and maintaining production systems: an ente
 
 | Project | What it is |
 |---|---|
+| [**EcoEvents**](https://github.com/rmb34/ecoevents) | Offline-first recycling gamification platform for live events — registration, weighing, points and prize redemption working with no network. Next.js 15 PWA, custom IndexedDB sync queue, client-side UUID v7, HMAC-signed QR codes, PBKDF2 offline sessions. pnpm monorepo with documented ADRs. |
 | [**TrocaCopa**](https://github.com/rmb34/trocacopa) · [live](https://troca-copa-26.vercel.app) | Free sticker-album tracker for the FIFA World Cup 2026. Next.js 16, React 19, Drizzle/Neon, better-auth, installable PWA. Server-only reads (IDOR closed by construction), per-user rate limiting, CSP. |
 | [**MythicPanel**](https://github.com/rmb34/wowMythicPanel) | World of Warcraft progression dashboard aggregating Blizzard API and raider.io. Java 21, Spring Boot 3, Next.js 16, PostgreSQL. OAuth2 client credentials, caching, rate limiting, snapshot history. |
 
