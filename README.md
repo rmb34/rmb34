@@ -25,11 +25,11 @@ I've spent the last 5 years building and maintaining production systems: an ente
 
 ## 🛠 Stack
 
-`Java 21` `Spring Boot 3` `PostgreSQL` `AWS` — backend I've run in production for years
+`Java 21/8` `Spring Boot 3` `PostgreSQL` `AWS` — backend I've run in production for years
 `TypeScript` `Next.js` `React` `Tailwind` `Drizzle` — the frontend/full-stack side
 `Vitest` `JUnit` `Flyway` `Docker` `Vercel` — how it ships
 
 ## 📫 Contact
 
 - 💼 [Repetz](https://repetz.com.br)
-- ✉️ prindeuso@gmail.com
+- ✉️ lucas.santos.dev34@gmail.com
