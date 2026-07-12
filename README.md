@@ -19,6 +19,7 @@ I've spent the last 5 years building and maintaining production systems: an ente
 | Project | What it is |
 |---|---|
 | [**Repetz**](https://github.com/rmb34/repetz-showcase) · [repetz.com.br](https://repetz.com.br) | Multi-tenant SaaS for pet shop management with active paying customers — scheduling, POS, inventory, financial analytics with AI, WhatsApp automation. Co-founded and built end-to-end. |
+| [**GarfinhoFit**](https://github.com/rmb34/garfinhofit-showcase) · [garfinhofit.com.br](https://garfinhofit.com.br) | Full-stack system for a fit-food delivery business — landing page, customer accounts, order tracking, admin back office and WhatsApp-native checkout on Next.js + Neon Postgres. |
 | [**Hospital Performance System**](https://github.com/rmb34/hospital-performance-system-showcase) | Enterprise platform 10+ years in production — clinical, financial, compliance and HR indicators for hospitals, integrated with national public health infrastructure. Core engineer for 5 years. |
 | [**AI Dev Pipeline**](https://github.com/rmb34/ai-dev-pipeline-showcase) | Multi-agent AI development pipeline — from natural-language requirements to tested, committed code, with validation layers and safety guardrails. |
 
