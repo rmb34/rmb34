@@ -4,7 +4,7 @@ Full Stack Developer working across Java and Spring backend systems, TypeScript 
 
 I build new products end to end and work carefully inside long-lived systems where compatibility, data integrity, and operational risk matter. I am also a co-founder of [Repetz](https://repetz.com.br), a pet shop management SaaS serving customers in production.
 
-[LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285) · [Email](mailto:lucas.santos.dev34@gmail.com) · [Repetz](https://repetz.com.br)
+[LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285) · [Email](mailto:lucas.santos.dev34@gmail.com) · [Repetz](https://repetz.com.br) · [Portifolio](https://www.lucas-dev-portifolio.space/) 
 
 ---
 
@@ -55,3 +55,5 @@ The exact stack follows the product and the constraints of the existing system. 
 - [LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285)
 - [lucas.santos.dev34@gmail.com](mailto:lucas.santos.dev34@gmail.com)
 - [repetz.com.br](https://repetz.com.br)
+- [Portifolio](https://www.lucas-dev-portifolio.space/)
+  
